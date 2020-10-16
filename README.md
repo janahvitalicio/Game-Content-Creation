@@ -2,20 +2,19 @@
 Coursework (labs and projects) for a 3D modelling and animation course. Content is created both interactively and through coding.
 
 ### Labs
-- [x] Lab 1 - [Castle] Basic shapes and parameters
-- [x] Lab 2 - SubObject editing and Modifiers
-- [x] Lab 3 - Triangle reduction (From 5,016 to 966 triangles)
-- [x] Lab 4 - Textures
-- [x] Lab 5 - Animation and Lighting
-- [x] Lab 6 - Importing 3D Model to Unreal Engine 4
-- [x] Lab 7 - STL Algorithms
-- [x] Lab 8 - Smart Pointers
-- [x] Lab 9 - Multi-Threading
+- [x] Lab 1 - Castle: Basic shapes and parameters
+- [x] Lab 2 - Plane: SubObject editing and Modifiers
+- [x] Lab 3 - Train Station: Triangle reduction (From 5,016 to 966 triangles)
+- [x] Lab 4 - Train Station: Textures
+- [x] Lab 5 - Train Station: Animation and Lighting
+- [x] Lab 6 - Train Station: Importing 3D Model to Unreal Engine 4
+- [x] Lab 7 - Picket Fence Generator
+- [x] Lab 8 - Train Track Generator
 
 ### Projects (Assignments)
-- [x] Assignment 1
-- [x] Assignment 2
-- [x] Assignment 3
+- [x] Assignment 1: Steam Train Modelling
+- [x] Assignment 2: Creating Tree using L-Systems (Lindenmayer Systems)
+- [x] Assignment 3: Modelling and Animating an Amusement Park
 
 ### Notes
 - Course Github Repository and Labs/Assignments info: https://github.com/seneca-gam536-dps936-w20/content-w20/wiki
