@@ -2,10 +2,10 @@
 Coursework (labs and projects) for a 3D modelling and animation course. Content is created both interactively and through coding.
 
 ### Labs
-- [x] Lab 1 - Castle: Basic shapes and parameters
-- [x] Lab 2 - Plane: SubObject editing and Modifiers
-- [x] Lab 3 - Train Station: Triangle reduction (From 5,016 to 966 triangles)
-- [x] Lab 4 - Train Station: Textures
+- [x] Lab 1 - Castle: Basic shapes and parameters, Plane: SubObject editing and Modifiers
+- [x] Lab 2 - Train Station: Triangle reduction (From 5,016 to 966 triangles)
+- [x] Lab 3 - Creating a Stamp using the UV Editor
+- [x] Lab 4 - Train Station: Applying Textures (Photoshop used)
 - [x] Lab 5 - Train Station: Animation and Lighting
 - [x] Lab 6 - Train Station: Importing 3D Model to Unreal Engine 4
 - [x] Lab 7 - Picket Fence Generator
