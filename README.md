@@ -8,7 +8,7 @@ Coursework (labs and projects) for a 3D modelling and animation course. Content 
 - [x] Lab 4 - Train Station: Applying Textures (Photoshop used)
 - [x] Lab 5 - Train Station: Animation and Lighting
 - [x] Lab 6 - Train Station: Importing 3D Model to Unreal Engine 4
-- [x] Lab 7 - Picket Fence Generator
+- [x] Lab 7 - Picket Fence Generator; buildFence.ms
 - [x] Lab 8 - Train Track Generator
 
 ### Projects (Assignments)
