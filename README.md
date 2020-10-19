@@ -11,7 +11,7 @@ Coursework (labs and projects) for a 3D modelling and animation course. Content 
 - [x] Lab 7 - Picket Fence Generator; buildFence.ms
 
 ### Projects (Assignments)
-- [x] Assignment 1: Steam Train Modelling
+- [x] Assignment 1: Steam Engine Train Modelling
 - [x] Assignment 2: Creating Tree using L-Systems (Lindenmayer Systems)
 - [x] Assignment 3: Modelling and Animating an Amusement Park
 
